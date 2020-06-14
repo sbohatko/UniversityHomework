@@ -1,0 +1,4 @@
+/Users/aleksandrbogatko/Desktop/Слев.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/aleksandrbogatko/Desktop/Alexandr_Bogatko_IPZ-12.zip/ASD_labs/module2/lab2.1/task1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/aleksandrbogatko/Desktop/Alexandr_Bogatko_IPZ-12.zip/ASD_labs/module2/lab2.1/task1/cmake-build-debug

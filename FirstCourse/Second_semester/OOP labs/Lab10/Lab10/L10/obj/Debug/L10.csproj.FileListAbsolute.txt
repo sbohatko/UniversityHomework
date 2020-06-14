@@ -1,0 +1,6 @@
+/home/koshka/Desktop/OOP/Labs/Lab10/L10/bin/Debug/L10.exe
+/home/koshka/Desktop/OOP/Labs/Lab10/L10/bin/Debug/L10.pdb
+/home/koshka/Desktop/OOP/Labs/Lab10/L10/obj/Debug/L10.csprojAssemblyReference.cache
+/home/koshka/Desktop/OOP/Labs/Lab10/L10/obj/Debug/L10.csproj.CoreCompileInputs.cache
+/home/koshka/Desktop/OOP/Labs/Lab10/L10/obj/Debug/L10.exe
+/home/koshka/Desktop/OOP/Labs/Lab10/L10/obj/Debug/L10.pdb

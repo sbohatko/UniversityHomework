@@ -1,0 +1,13 @@
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\bin\Debug\netcoreapp3.1\ClientUDP.exe
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\bin\Debug\netcoreapp3.1\ClientUDP.deps.json
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\bin\Debug\netcoreapp3.1\ClientUDP.runtimeconfig.json
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\bin\Debug\netcoreapp3.1\ClientUDP.runtimeconfig.dev.json
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\bin\Debug\netcoreapp3.1\ClientUDP.dll
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\bin\Debug\netcoreapp3.1\ClientUDP.pdb
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\obj\Debug\netcoreapp3.1\ClientUDP.csprojAssemblyReference.cache
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\obj\Debug\netcoreapp3.1\ClientUDP.csproj.CoreCompileInputs.cache
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\obj\Debug\netcoreapp3.1\ClientUDP.AssemblyInfoInputs.cache
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\obj\Debug\netcoreapp3.1\ClientUDP.AssemblyInfo.cs
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\obj\Debug\netcoreapp3.1\ClientUDP.dll
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\obj\Debug\netcoreapp3.1\ClientUDP.pdb
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientUDP\obj\Debug\netcoreapp3.1\ClientUDP.genruntimeconfig.cache

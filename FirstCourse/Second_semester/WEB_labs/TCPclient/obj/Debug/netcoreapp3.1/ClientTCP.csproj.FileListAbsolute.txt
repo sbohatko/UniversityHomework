@@ -1,0 +1,13 @@
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\bin\Debug\netcoreapp3.1\ClientTCP.exe
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\bin\Debug\netcoreapp3.1\ClientTCP.deps.json
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\bin\Debug\netcoreapp3.1\ClientTCP.runtimeconfig.json
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\bin\Debug\netcoreapp3.1\ClientTCP.runtimeconfig.dev.json
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\bin\Debug\netcoreapp3.1\ClientTCP.dll
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\bin\Debug\netcoreapp3.1\ClientTCP.pdb
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\obj\Debug\netcoreapp3.1\ClientTCP.csprojAssemblyReference.cache
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\obj\Debug\netcoreapp3.1\ClientTCP.csproj.CoreCompileInputs.cache
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\obj\Debug\netcoreapp3.1\ClientTCP.AssemblyInfoInputs.cache
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\obj\Debug\netcoreapp3.1\ClientTCP.AssemblyInfo.cs
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\obj\Debug\netcoreapp3.1\ClientTCP.dll
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\obj\Debug\netcoreapp3.1\ClientTCP.pdb
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ClientTCP\obj\Debug\netcoreapp3.1\ClientTCP.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aleksandrbogatko/Desktop/Alexandr_Bogatko_IPZ-12.zip/ASD_labs/module2/lab2.1/task1/main.cpp
+iostream
+-
+cstdlib
+-
+

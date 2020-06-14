@@ -1,0 +1,13 @@
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\bin\Debug\netcoreapp3.1\ServerTCP.exe
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\bin\Debug\netcoreapp3.1\ServerTCP.deps.json
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\bin\Debug\netcoreapp3.1\ServerTCP.runtimeconfig.json
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\bin\Debug\netcoreapp3.1\ServerTCP.runtimeconfig.dev.json
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\bin\Debug\netcoreapp3.1\ServerTCP.dll
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\bin\Debug\netcoreapp3.1\ServerTCP.pdb
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\obj\Debug\netcoreapp3.1\ServerTCP.csprojAssemblyReference.cache
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\obj\Debug\netcoreapp3.1\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\obj\Debug\netcoreapp3.1\ServerTCP.AssemblyInfoInputs.cache
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\obj\Debug\netcoreapp3.1\ServerTCP.AssemblyInfo.cs
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\obj\Debug\netcoreapp3.1\ServerTCP.dll
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\obj\Debug\netcoreapp3.1\ServerTCP.pdb
+C:\Users\plast\Desktop\Універ\1 курс\2 семестр\Мережі\ServerTCP\obj\Debug\netcoreapp3.1\ServerTCP.genruntimeconfig.cache
